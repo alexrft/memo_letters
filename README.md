@@ -1,2 +1,2 @@
 # memo_letters
-О работе на хакатоне memo.data https://ling.hse.ru/news/207192921.html
+Ответила на вопросы о работе на хакатоне memo.data тут: https://ling.hse.ru/news/207192921.html
